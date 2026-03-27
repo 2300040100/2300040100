@@ -33,15 +33,13 @@ Git • GitHub
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2300040100&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2300040100&show_icons=true&theme=default&cache_seconds=1800" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=2300040100&theme=default" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=2300040100&theme=default&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300040100&layout=compact&theme=default" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300040100&layout=compact&theme=default&cache_seconds=1800" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
