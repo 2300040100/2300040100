@@ -1,38 +1,54 @@
-## 👋 Hi, I'm Karishma Mohammed
-I’m passionate about leveraging technology to solve real-world problems and build scalable, impactful solutions.
-
-I’m a 3rd-year B.Tech student in Electronics and Communication Engineering at KL University, with a strong interest in software development, core electronics, and emerging technologies. I enjoy learning by building and continuously improving my technical and problem-solving skills.
+<h1 align="center">Hi 👋, I'm Karishma Mohammed</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-### 💻 What I Do
-- Develop full-stack web applications  
-- Write clean, maintainable, and efficient code  
-- Explore new technologies and frameworks  
-- Solve problems with a logical and creative approach  
+### 👩‍💻 About Me
+I am a dedicated and curious developer who enjoys building scalable, efficient, and user-friendly applications.  
+I love transforming ideas into real-world solutions and continuously improving my skills through hands-on projects and learning.
+
+- 🌱 Currently exploring advanced full-stack development  
+- 💡 Interested in building impactful and real-world applications  
+- ⚡ Strong focus on clean code and problem-solving  
 
 ---
 
 ### 🚀 Tech Stack
-**Languages:** C, C++, Java, JavaScript, Python, TypeScript  
-**Frontend:** HTML, CSS, React, Angular, Vue, Tailwind CSS  
-**Backend & Tools:** Spring, Apache Kafka, Vite  
-**Databases:** MySQL, MongoDB  
-**Version Control:** Git, GitHub  
+
+**💻 Languages**  
+C • C++ • Java • JavaScript • Python • TypeScript  
+
+**🌐 Frontend**  
+HTML • CSS • React • Angular • Vue • Tailwind CSS  
+
+**⚙️ Backend & Tools**  
+Spring • Apache Kafka • Vite  
+
+**🗄️ Databases**  
+MySQL • MongoDB  
+
+**🔧 Tools**  
+Git • GitHub  
 
 ---
 
 ### 📊 GitHub Stats
-![Karishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2300040100&show_icons=true&theme=default)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=2300040100&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2300040100&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2300040100&show_icons=true&theme=default" alt="stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=2300040100&theme=default" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300040100&layout=compact&theme=default" alt="langs" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-- 📸 Instagram: https://instagram.com/karishmaa846  
-- 💼 LinkedIn: https://linkedin.com/in/karishma-mohammed12  
-- ▶️ YouTube: https://youtube.com/@Code2ProOfficial  
-- 📧 Email: 2300040100eceh@gmail.com  
+
+<p>
+  <a href="https://instagram.com/karishmaa846">Instagram</a> •
+  <a href="https://linkedin.com/in/karishma-mohammed12">LinkedIn</a> •
+  <a href="https://youtube.com/@Code2ProOfficial">YouTube</a> •
+  <a href="mailto:2300040100eceh@gmail.com">Email</a>
+</p>
